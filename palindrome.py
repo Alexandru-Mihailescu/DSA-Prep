@@ -23,3 +23,5 @@ class Solution:
 
  
         return True
+
+is_palindrome("madam")
